@@ -1,0 +1,14 @@
+
+.nav__logo{
+    font-size:32px;
+    font-weight: 700;
+    color:#3e6ff4;
+}
+
+.nav__list li a{
+    color:white;
+}
+
+.home__social a{
+    color:white;
+}
